@@ -1,0 +1,15 @@
+[submodule "pr-lab1.1"]
+	path = pr-lab1.1
+	url = git@github.com:valeria-scherb/pr-lab1.1.git
+[submodule "pr-lab1.2"]
+	path = pr-lab1.2
+	url = git@github.com:valeria-scherb/pr-lab1.2.git
+[submodule "pr-lab2"]
+	path = pr-lab2
+	url = git@github.com:valeria-scherb/pr-lab2.git
+[submodule "pr-lab3"]
+	path = pr-lab3
+	url = git@github.com:valeria-scherb/pr-lab3.git
+[submodule "pr-lab4-try2"]
+	path = pr-lab4-try2
+	url = git@github.com:valeria-scherb/pr-lab4-try2.git
